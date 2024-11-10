@@ -1,1 +1,7 @@
-print("adding all the sample code")
+a = 5
+b = 3
+def sum(a, b):
+    c=a+b
+    return c
+
+print(sum(a,b))
